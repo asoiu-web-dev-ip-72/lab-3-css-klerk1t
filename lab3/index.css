@@ -1,0 +1,50 @@
+body {
+	background-image: url("https://bennettfeely.com/gradients/img/gradient.jpg");
+	
+}
+
+#introduction {
+	font-family: sans-serif;
+	font-size: bold;
+	padding: 10px;
+	color: #fff5a5;
+	background: linear-gradient(1deg, white, purple);
+	font-family: fantasy;
+}
+
+ol {
+ 	color: yellow;
+ 	padding: auto;
+}
+
+#cw {
+	background: #fff4ag;
+	color: black;
+}
+
+#df {
+	width: 200px;
+    padding: 1px;
+    margin: auto;
+    background: #fc0;
+}
+
+#block2 {
+	background: linear-gradient(80deg, white, rgb(224, 238, 144));
+    border-style: double;
+    border-width: 1px;
+    text-decoration: overline;
+    text-transform: capitalize;
+	font-family: serif;
+}
+
+
+h1 {
+	color: red;
+	font-family: fantasy;
+}
+
+h2 {
+	color: red;
+	font-family: fantasy;
+}
